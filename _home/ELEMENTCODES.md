@@ -14,7 +14,7 @@ Element Codes for Directory and Script Naming
 
 ----------------------------------------------------------
 
-| ELEMENT NAME | CODE NAMING |
+| ELEENT NAME | CODE NAMING |
 | :--: | :--: |
 | 3D | 3D |
 | BOQ |BOQ |
@@ -30,3 +30,4 @@ Element Codes for Directory and Script Naming
 | WALLS | WA |
 | WARNINGS | WAR |
 | WORKSETS | WS |
+
