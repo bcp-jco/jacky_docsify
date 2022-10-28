@@ -8,7 +8,7 @@
 
 | Latest Version | Log |
 | :-------: | :----: | 
-|[2.2.1] | [CHANGELOG](/_vmt/changelog/VMTNamingConvention.md) |
+|[2.2.2] | [CHANGELOG](/_vmt/changelog/VMTNamingConvention.md) |
 
 > #### SCRIPT INFORMATION: 
 

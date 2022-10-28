@@ -13,6 +13,9 @@ All Notable Changes to the Script will be Documented in This File.
 | :-- |
 |04_Resources\05_Research & Development\01_Dynamo\01_Scripts\2_PROJECT\263_VMT|
 ------------------------------------------------------------------
+### [2.2.2] - 2022-10-27
+##### ADDED
+- Columns, Doors, Entourage, Furniture Systems, Generic Models, Parking, Parts, Planting, Site, Structural Columns, Structural Framing, Topography, Windows
 
 ### [2.2.1] - 2022-10-18
 ##### ADDED
