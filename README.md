@@ -9,8 +9,9 @@ Please noticed that this site is just for interal usage and I have hidden some o
 
 > ## **01.NODE CODING**
 <img src="./images/general/NODE CODING.png">
-![NODE CODING.png](images/general/NODE CODING.png)
 
+
+![](images/general/NODE%20CODING.png)
 -----------------------------------------------------------------------
 
 > ## **02.INFORMATION BOX**
