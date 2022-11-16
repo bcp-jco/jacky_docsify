@@ -15,7 +15,7 @@ Please noticed that this site is just for interal usage and I have hidden some o
 
 > ## **02.INFORMATION BOX**
 
-<img src="/_images/general/INFO BOX.png">
+<img src="./_images/general/INFO BOX.png">
 
 -----------------------------------------------------------------------
 
