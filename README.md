@@ -9,7 +9,7 @@ Please noticed that this site is just for interal usage and I have hidden some o
 
 > ## **01.NODE CODING**
 
-<img src="/_images/general/NODE CODING.png">
+<img src="./_images/general/NODE CODING.png">
 
 -----------------------------------------------------------------------
 
