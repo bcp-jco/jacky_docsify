@@ -19,7 +19,7 @@
 |         |  | Crumple 2022.5.27   |
 |         |  | Orchid 206.3.0.8161|
 ----------------------------------------------------------------
-> #### SCRIPT: 
+<!-- > #### SCRIPT: 
 
 <details>
 <summary>SCRIPT</summary>
@@ -56,4 +56,4 @@
 - *02: Assign File Location of Previous Excel Sheet for LineStyle from Naming Convention*
 - *03: Run Script*
 - *04: Script Will Rename all [User Created] LineStyle Elements*
-- *05: Script Will Export Secondary Naming Convention Checker into the Same Worksheet under a New Tab : "REVISED 02" for Anyother Naming Still Incorrect.*
+- *05: Script Will Export Secondary Naming Convention Checker into the Same Worksheet under a New Tab : "REVISED 02" for Anyother Naming Still Incorrect.* -->

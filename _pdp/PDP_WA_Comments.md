@@ -16,7 +16,7 @@
 | 272_PDP | PDP_WA: Filter Walls >3000mm |  | |  Revit 2022 | Cathrine Macabuhay | |
 |         | PDP_WA: Filter Walls <300mm  |  |
 ----------------------------------------------------------------
-> #### SCRIPT: 
+<!-- > #### SCRIPT: 
 <img src="/_images/pdp/PDP_WA_Comments.png">
 ----------------------------------------------------------------
 
@@ -56,4 +56,4 @@ Open Dynamo Player
 ------------------------------------------------------------------
 <img src="/_images/pdp/PDPPlayer.png" 
      width="550" 
-     height="400" />
+     height="400" /> -->
