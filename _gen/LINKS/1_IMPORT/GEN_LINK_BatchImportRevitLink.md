@@ -20,7 +20,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/images/gen/LINKS/GEN_LINK_BatchImportRevitLink.png">
+<img src="./images/gen/LINKS/GEN_LINK_BatchImportRevitLink.png">
 
 ------------------------------------------------------------------
 

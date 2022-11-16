@@ -23,7 +23,7 @@
 
 <details>
 <summary>SCRIPT</summary>
-<img src="/images/vmt/VMT_Renamer.png">
+<img src="./images/vmt/VMT_Renamer.png">
 </details>
 
 ------------------------------------------------------------------------------

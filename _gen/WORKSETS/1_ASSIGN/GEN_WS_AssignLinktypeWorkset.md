@@ -18,7 +18,7 @@
 ------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/images/gen/WS/1_ASSIGN/GEN_WS_AssignLinktypeWorkset.png">
+<img src="./images/gen/WS/1_ASSIGN/GEN_WS_AssignLinktypeWorkset.png">
 
 ------------------------------------------------------------
 

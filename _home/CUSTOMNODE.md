@@ -7,4 +7,4 @@
 | :--: | :--: |
 | C:\Users\R2DA\AppData\Roaming\Dynamo\Dynamo Revit\2.6\definitions |  Check your Dynamo Version [2.6/2.10 etc.] |
 
-<img src="/images/general/DYNAMO VERSION.png">
+<img src="./images/general/DYNAMO VERSION.png">

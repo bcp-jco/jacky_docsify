@@ -18,7 +18,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT & FLOW** 
 
-<img src="/images/gen/COR/GEN_COR_AccSharedCoordinates.png">
+<img src="./images/gen/COR/GEN_COR_AccSharedCoordinates.png">
 
 ------------------------------------------------------------------
 

@@ -20,7 +20,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/images/gen/WAR/GEN_WAR_ModelWarnings.png">
+<img src="./images/gen/WAR/GEN_WAR_ModelWarnings.png">
 
 ------------------------------------------------------------------
 

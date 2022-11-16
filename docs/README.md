@@ -4,13 +4,13 @@ Node Coding | Information Box | Updated Script Organization
 
 > ## **01.NODE CODING**
 
-<img src="/images/general/NODE CODING.png">
+<img src="./images/general/NODE CODING.png">
 
 -----------------------------------------------------------------------
 
 > ## **02.INFORMATION BOX**
 
-<img src="/images/general/INFO BOX.png">
+<img src="./images/general/INFO BOX.png">
 
 -----------------------------------------------------------------------
 

@@ -17,7 +17,7 @@
 
 ----------------------------------------------------------------
 <!-- > #### SCRIPT: 
-<img src="/images/pdp/PDP_WA_Below.png">
+<img src="./images/pdp/PDP_WA_Below.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
@@ -53,6 +53,6 @@ Open Dynamo Player
 - *01: Open Edit Inputs [Wall Comment]*
 - *02: Input Comment into Text Box*
 ------------------------------------------------------------------
-<img src="/images/pdp/PDPPlayer.png" 
+<img src="./images/pdp/PDPPlayer.png" 
      width="550" 
      height="400" /> -->

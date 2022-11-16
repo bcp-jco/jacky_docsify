@@ -20,7 +20,7 @@
 <!-- > #### SCRIPT: 
 <details>
 <summary>SCRIPT</summary>
-<img src="/images/vmt/VMT_REN_NavisworksClashes.png">
+<img src="./images/vmt/VMT_REN_NavisworksClashes.png">
 </details>
 
 ------------------------------------------------------------------------------

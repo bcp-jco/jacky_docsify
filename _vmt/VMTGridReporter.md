@@ -17,7 +17,7 @@
 | |  | | room_grid_checker_w_angled_grid @ Jacky.dyf | 
 ----------------------------------------------------------------
 <!-- > #### SCRIPT: 
-<img src="/images/vmt/VMT_Grid.png">
+<img src="./images/vmt/VMT_Grid.png">
 
 
 ------------------------------------------------------------------------------

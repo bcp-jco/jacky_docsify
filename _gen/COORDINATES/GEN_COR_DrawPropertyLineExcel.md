@@ -19,7 +19,7 @@
 ----------------------------------------------------------------
 > #### **SCRIPT & FLOW** 
 
-<img src="/images/gen/COR/GEN_COR_DrawPropertyLine.png">
+<img src="./images/gen/COR/GEN_COR_DrawPropertyLine.png">
 
 ------------------------------------------------------------------------------
 

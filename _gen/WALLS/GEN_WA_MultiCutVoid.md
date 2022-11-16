@@ -19,7 +19,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/images/gen/WA/GEN_WA_MultiCutVoid.png">
+<img src="./images/gen/WA/GEN_WA_MultiCutVoid.png">
 
 ------------------------------------------------------------------
 

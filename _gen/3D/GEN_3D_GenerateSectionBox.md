@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT: 
-<img src="/images/gen/3D/GEN_3D_RoomSeparatorbyFloor.png">
+<img src="./images/gen/3D/GEN_3D_RoomSeparatorbyFloor.png">
 
 ------------------------------------------------------------------------------
 
