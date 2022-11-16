@@ -2,14 +2,14 @@
 Hi, I am Jacky, This is the documentation site for the dynamo scripts I am now maintaining. 
 I am currenting working as BIM specicalist in a BIM outsourcing company.
 I am also the team lead in the R&D department. Inside our team, we will do the tools necessary to boost any projects.The scripts consist a mixture of c# zero torch node, Ironpython node from our own and also dynamo packages. Feel free to take a took of the tools I made.
-Please noticed that this site is just for interal usage and I have hidden some of it base on confidentiality. If you are intreasted feel free to contact jackyluk95@gmail.com :)
+Please noticed that this site is just for interal usage and I have hidden some of it base on confidentiality. If you are intreasted feel free to contact jackyluk95@gmail.com
 
 ----------------------------------------------------------------------
 
 
 > ## **01.NODE CODING**
 <img src="./images/general/NODE CODING.png">
-
+![NODE CODING.png](./images/general/NODE CODING.png)
 
 -----------------------------------------------------------------------
 
