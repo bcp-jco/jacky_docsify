@@ -16,7 +16,7 @@
 | 272_PDP |  | archi-lab.net 2023.213.1523| | Revit 2022 | Cathrine Macabuhay |  |
 |         |  | Genius Loci 2022.7.5|
 ----------------------------------------------------------------
-> #### SCRIPT: 
+<!-- > #### SCRIPT: 
 <img src="/_images/pdp/PDP_WA_Above.png">
 ----------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Open Dynamo Player
 ------------------------------------------------------------------
 <img src="/_images/pdp/PDPPlayer.png" 
      width="550" 
-     height="400" />
+     height="400" /> -->

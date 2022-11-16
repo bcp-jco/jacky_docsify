@@ -19,7 +19,7 @@
 
 ----------------------------------------------------------------
 
-> #### SCRIPT:
+<!-- > #### SCRIPT:
 <img src="/_images/hlt/HLT_3D_GenerateViews.png">
 
 ------------------------------------------------------------------
@@ -39,4 +39,4 @@
     - *Floor Plan at Level to Duplicate & Duplicate Option*
 - *04: Input Values for : View Category | View Sub-Category*
 - *05: Press Play*
-- *06: Views Are Automatically Generated*
+- *06: Views Are Automatically Generated* -->
