@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------------
 <!-- > #### SCRIPT: 
-<img src="/_images/vmt/VMT_COL_SeparationLineCreation_CAD.png">
+<img src="/images/vmt/VMT_COL_SeparationLineCreation_CAD.png">
 
 
 ------------------------------------------------------------------------------

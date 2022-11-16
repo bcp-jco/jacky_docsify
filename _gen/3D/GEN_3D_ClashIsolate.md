@@ -24,10 +24,10 @@
 - **Script Has Two Different Versions, Using Data Shapes UI & Dynamo Player**
 
 **01. Data Shapes UI**
-<img src="/_images/gen/3D/GEN_3D_ClashIsolate_DSUI.png">
+<img src="/images/gen/3D/GEN_3D_ClashIsolate_DSUI.png">
 
 **02. Dynamo Player**
-<img src="/_images/gen/3D/GEN_3D_ClashIsolate_DP.png">
+<img src="/images/gen/3D/GEN_3D_ClashIsolate_DP.png">
 ------------------------------------------------------------
 
 > #### DEMO: 

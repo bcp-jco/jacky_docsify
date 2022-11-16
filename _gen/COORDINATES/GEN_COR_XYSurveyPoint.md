@@ -18,7 +18,7 @@
 ----------------------------------------------------------------
 > #### **SCRIPT & FLOW** 
 
-<img src="/_images/gen/COR/GEN_COR_XYSurveyPoint.png">
+<img src="/images/gen/COR/GEN_COR_XYSurveyPoint.png">
 
 ------------------------------------------------------------------------------
 

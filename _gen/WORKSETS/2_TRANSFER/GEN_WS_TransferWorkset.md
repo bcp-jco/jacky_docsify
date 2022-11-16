@@ -18,7 +18,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_images/gen/WS/2_TRANSFER/GEN_WS_TransferWorkset.png">
+<img src="/images/gen/WS/2_TRANSFER/GEN_WS_TransferWorkset.png">
 
 ------------------------------------------------------------------
 

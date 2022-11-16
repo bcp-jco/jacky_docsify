@@ -21,7 +21,7 @@
 
 > #### **SCRIPT** 
 
-<img src="/_images/gen/LI/GEN_LI_ViewLine.png">
+<img src="/images/gen/LI/GEN_LI_ViewLine.png">
 
 ------------------------------------------------------------------------------
 

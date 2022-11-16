@@ -18,7 +18,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_images/gen/RENAMER/GEN_REN_MaterialRenamer.png">
+<img src="/images/gen/RENAMER/GEN_REN_MaterialRenamer.png">
 
 ------------------------------------------------------------------
 
