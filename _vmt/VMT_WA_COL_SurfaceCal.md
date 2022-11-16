@@ -18,7 +18,7 @@
 |         |  | archi-lab.net 2018.0.8
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
+> #### SCRIPT: 
 <img src="/_images/vmt/VMT_COL_SurfaceCal.png">
 
 
@@ -30,4 +30,4 @@
  <source src="/_demo/mp4" type="video/mp4">
 </video>
 
-#### INSTRUCTIONS:  -->
+#### INSTRUCTIONS: 
