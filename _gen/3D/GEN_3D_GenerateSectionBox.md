@@ -27,7 +27,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/GEN/3D/GEN_3D_GenerateSectionBox.mp4" type="video/mp4">
+ <source src="./demo/GEN/3D/GEN_3D_GenerateSectionBox.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

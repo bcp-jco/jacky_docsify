@@ -19,14 +19,14 @@
 
 ----------------------------------------------------------------
 
-<!-- > #### SCRIPT:
+> #### SCRIPT:
 <img src="./images/hlt/HLT_3D_GenerateViews.png">
 
 ------------------------------------------------------------------
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/HLT/HLT_3D_GenerateViews.mp4" type="video/mp4">
+ <source src="./demo/HLT/HLT_3D_GenerateViews.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
@@ -39,4 +39,4 @@
     - *Floor Plan at Level to Duplicate & Duplicate Option*
 - *04: Input Values for : View Category | View Sub-Category*
 - *05: Press Play*
-- *06: Views Are Automatically Generated* -->
+- *06: Views Are Automatically Generated*

@@ -16,7 +16,7 @@
 | 263_VMT |  | archi-lab.net 2018.0.8| room_grid_checker @ Jacky.dyf |  Revit 2021.1 | Jacky Luk | |
 | |  | | room_grid_checker_w_angled_grid @ Jacky.dyf | 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
+> #### SCRIPT: 
 <img src="./images/vmt/VMT_Grid.png">
 
 
@@ -25,7 +25,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/.mp4" type="video/mp4">
+ <source src="./demo/.mp4" type="video/mp4">
 </video>
 
-#### INSTRUCTIONS:  -->
+#### INSTRUCTIONS: 
