@@ -31,7 +31,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/VMT/VMTNC.mp4" type="video/mp4">
+ <source src="/demo/VMT/VMTNC.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

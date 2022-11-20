@@ -24,7 +24,7 @@
 
 > #### DEMO [BATCH ASSIGN]:
 <video width="1280" height="720" controls>
- <source src="/_demo/GEN/WS/GEN_WS_AssignLinktypeWorkset_Batch.mp4" type="video/mp4">
+ <source src="/demo/GEN/WS/GEN_WS_AssignLinktypeWorkset_Batch.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS [BATCH LINKS]: 
@@ -35,7 +35,7 @@
 ------------------------------------------------------------
 > #### DEMO [INDIVIDUAL LINKS]:
 <video width="1280" height="720" controls>
- <source src="/_demo/GEN/WS/GEN_WS_AssignLinktypeWorkset_Individual.mp4" type="video/mp4">
+ <source src="/demo/GEN/WS/GEN_WS_AssignLinktypeWorkset_Individual.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS [INDIVIDUAL LINKS]: 

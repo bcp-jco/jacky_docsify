@@ -33,7 +33,7 @@
 > #### 01. SYSTEM FAMILY | INPLACE FAMILY | MATERIALS | FILL PATTERN | FILL REGIONS | WORKSETS
 
 <video width="1280" height="720" controls>
- <source src="/_demo/VMT/VMTR.mp4" type="video/mp4">
+ <source src="/demo/VMT/VMTR.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
@@ -48,7 +48,7 @@
 > #### 02. LINESTYLE:
 
 <video width="1280" height="720" controls>
- <source src="/_demo/VMT/VMTRLS.mp4" type="video/mp4">
+ <source src="/demo/VMT/VMTRLS.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS [LINESTYLE]: 

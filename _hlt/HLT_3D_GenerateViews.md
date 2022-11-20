@@ -26,7 +26,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/HLT/HLT_3D_GenerateViews.mp4" type="video/mp4">
+ <source src="/demo/HLT/HLT_3D_GenerateViews.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

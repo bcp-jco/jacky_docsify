@@ -25,7 +25,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_demo/.mp4" type="video/mp4">
+ <source src="/demo/.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS:  -->
