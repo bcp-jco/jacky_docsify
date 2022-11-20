@@ -1,4 +1,5 @@
 
+- [**>>>>>SHOWCASE<<<<<**](/_home/SHOWCASE.md)
 - [● **INFORMATION**](/README.md)
 - [● **CUSTOM NODE**](/_home/CUSTOMNODE.md)
 - [● **DYNAMO VIEWER**](/_home/DYNAMOVIEWER.md)

@@ -1049,3 +1049,14 @@ code .token {
     position: relative;
     left: auto
 }
+
+img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-gap: 20px;
+  }
