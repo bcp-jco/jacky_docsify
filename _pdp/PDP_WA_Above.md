@@ -17,7 +17,7 @@
 |         |  | Genius Loci 2022.7.5|
 ----------------------------------------------------------------
 <!-- > #### SCRIPT: 
-<img src="/_images/pdp/PDP_WA_Above.png">
+<img src="/images/pdp/PDP_WA_Above.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
@@ -53,6 +53,6 @@ Open Dynamo Player
 - *01: Open Edit Inputs [Wall Comment]*
 - *02: Input Comment into Text Box*
 ------------------------------------------------------------------
-<img src="/_images/pdp/PDPPlayer.png" 
+<img src="/images/pdp/PDPPlayer.png" 
      width="550" 
      height="400" /> -->

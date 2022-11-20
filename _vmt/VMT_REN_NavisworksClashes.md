@@ -17,12 +17,12 @@
 
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
+> #### SCRIPT: 
 <details>
 <summary>SCRIPT</summary>
-<img src="/_images/vmt/VMT_REN_NavisworksClashes.png">
+<img src="/images/vmt/VMT_REN_NavisworksClashes.png">
 </details>
 
 ------------------------------------------------------------------------------
 
-> #### DEMO:  -->
+> #### DEMO: 

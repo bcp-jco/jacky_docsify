@@ -18,7 +18,7 @@
 ------------------------------------------------------------------
 
 > #### **SCRIPT** 
-<img src="/_images/gen/FLR/GEN_FLR_SlightlyOffAxisFixer.png">
+<img src="/images/gen/FLR/GEN_FLR_SlightlyOffAxisFixer.png">
 
 ------------------------------------------------------------------
 

@@ -16,8 +16,8 @@
 | 263_VMT |  | spring nodes v.210.1.1 |  | Revit 2021.1 | Jacky Luk | |
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
-<img src="/_images/vmt/VMT_RM_OffAxis.png">
+> #### SCRIPT: 
+<img src="/images/vmt/VMT_RM_OffAxis.png">
 
 
 ------------------------------------------------------------------------------
@@ -28,4 +28,4 @@
  <source src="/demo/.mp4" type="video/mp4">
 </video>
 
-#### INSTRUCTIONS:  -->
+#### INSTRUCTIONS: 

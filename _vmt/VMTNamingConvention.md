@@ -23,7 +23,7 @@
 
 <details>
 <summary>SCRIPT</summary>
-<img src="/_images/vmt/VMT_NamingConvention.png">
+<img src="/images/vmt/VMT_NamingConvention.png">
 </details>
 
 ------------------------------------------------------------------------------

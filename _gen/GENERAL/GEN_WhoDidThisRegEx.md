@@ -18,7 +18,7 @@
 ----------------------------------------------------------------
 > #### **SCRIPT & FLOW** 
 
-<img src="/_images/gen/GEN/GEN_WhoDidThisRegEx.png">
+<img src="/images/gen/GEN/GEN_WhoDidThisRegEx.png">
 
 ------------------------------------------------------------------------------
 

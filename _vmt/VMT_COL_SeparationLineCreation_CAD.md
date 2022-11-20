@@ -17,10 +17,10 @@
 |  |  | archi-lab.net 2018.0.8 |
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
-<img src="/_images/vmt/VMT_COL_SeparationLineCreation_CAD.png">
+> #### SCRIPT: 
+<img src="/images/vmt/VMT_COL_SeparationLineCreation_CAD.png">
 
 
 ------------------------------------------------------------------------------
 
-> #### DEMO:  -->
+> #### DEMO: 

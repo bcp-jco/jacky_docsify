@@ -16,8 +16,8 @@
 | 263_VMT |  | Clockwork 1.31.1 | | Revit 2021.1 | Jacky Luk | |
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
-<img src="/_images/vmt/VMT_CL_Finishes.png">
+> #### SCRIPT: 
+<img src="/images/vmt/VMT_CL_Finishes.png">
 
 
 ------------------------------------------------------------------------------
@@ -28,4 +28,4 @@
  <source src="/demo/.mp4" type="video/mp4">
 </video>
 
-#### INSTRUCTIONS:  -->
+#### INSTRUCTIONS: 

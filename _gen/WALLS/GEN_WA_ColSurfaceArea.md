@@ -20,7 +20,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_images/gen/WA/GEN_WA_COLSurfaceArea.png">
+<img src="/images/gen/WA/GEN_WA_COLSurfaceArea.png">
 
 ------------------------------------------------------------------
 

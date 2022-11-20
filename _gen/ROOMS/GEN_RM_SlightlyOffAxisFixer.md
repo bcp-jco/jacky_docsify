@@ -19,7 +19,7 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_images/gen/RM/GEN_RM_SlightlyOffAxisFixer.png">
+<img src="/images/gen/RM/GEN_RM_SlightlyOffAxisFixer.png">
 
 ------------------------------------------------------------------
 

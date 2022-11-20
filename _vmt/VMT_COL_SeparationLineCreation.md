@@ -17,10 +17,10 @@
 
 
 ----------------------------------------------------------------
-<!-- > #### SCRIPT: 
-<img src="/_images/vmt/VMT_COL_SeparationLineCreation.png">
+> #### SCRIPT: 
+<img src="/images/vmt/VMT_COL_SeparationLineCreation.png">
 
 
 ------------------------------------------------------------------------------
 
-> #### DEMO:  -->
+> #### DEMO: 
