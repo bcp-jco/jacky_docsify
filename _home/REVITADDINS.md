@@ -1,9 +1,9 @@
 > ## **REVIT ADD-INS LIST**
 Directory of Revit Add-Ins Being Used per User in BIMCAP 
-<!-- 
+
 | GOOGLE DOC LINK |
 | :--: |
-| https://docs.google.com/spreadsheets/d/1lDxRcI1dClYzVj1TsnpDvyy3GXqgreesnZ3lVMXDFH0/edit#gid=0 | -->
+| https://docs.google.com/spreadsheets/d/1lDxRcI1dClYzVj1TsnpDvyy3GXqgreesnZ3lVMXDFH0/edit#gid=0 |
 
 ----------------------------------------------------------
 
